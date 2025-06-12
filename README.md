@@ -9,7 +9,7 @@ A calm and wise therapy bot that talks like a Zen Monk. It gives peaceful, refle
 - Built using Gradio + Gemini API
 
 ## Demo
-👉 [Click here to try the bot](https://e4734e1e6ef230ba1d.gradio.live/)
+👉 [Click here to try the bot](https://ca0b016c5e15f15101.gradio.live/))
 
 ## Tech Stack
 - Python
