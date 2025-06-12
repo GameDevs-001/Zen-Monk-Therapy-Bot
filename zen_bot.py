@@ -5,7 +5,7 @@ import tempfile
 import os
 
 # ✅ 1. Configure your Gemini API key
-genai.configure(api_key="AIzaSyAn6wK59ki5c6UNyFTni6WkacvU2M6pZ-I")
+genai.configure(api_key="YOUR API KEY HERE")
 
 # ✅ 2. Dynamically choose a supported text model
 models = [m.name for m in genai.list_models()]
